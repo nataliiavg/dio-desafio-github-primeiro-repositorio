@@ -2,15 +2,15 @@
 
 [Download do Git](https://git-scm.com/downloads)
 
-### O Git é gerenciado por CLI (Command Line Interface)
+#### Git é um Sistema Distribuído seguro, controle de versionamento armazenado em nuvem
 
-### Objetos Internos do Git:
+#### O Git é gerenciado por CLI (Command Line Interface)
+
+#### Objetos Internos do Git:
 
 - Blobs
 - Trees
 - Commits
-
-#### Git é um Sistema Distribuído seguro, controle de versionamento armazenado em nuvem
 
 #### Principais comandos:
 
